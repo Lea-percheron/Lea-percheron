@@ -50,5 +50,5 @@ Je développe des projets en Python, Swift, Java, TypeScript, SQL, R et C. Mon G
 ## Contact
 
 - GitHub : [Lea-percheron](https://github.com/Lea-percheron)
-
-<!-- Ajouter ici LinkedIn, email ou portfolio quand les liens publics sont prêts. -->
+- LinkedIn : [léa-percheron](https://www.linkedin.com/in/léa-percheron)
+- Email : [leapercheron@icloud.com](mailto:leapercheron@icloud.com)
