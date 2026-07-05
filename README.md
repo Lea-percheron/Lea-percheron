@@ -29,12 +29,12 @@ Je développe des projets en Python, Swift, Java, TypeScript, SQL, R et C. Mon G
 
 | Projet | Technologies | Description |
 | --- | --- | --- |
-| [Projet AMS Pepper](https://github.com/lea1234567890/Projet_AMS_Pepper) | Python, Pepper, OpenAI Realtime, WebSocket, SQLite | Assistant IA robotique pour un cas d'usage en parapharmacie, avec backend, interface tablette et intégration Pepper. |
-| [Sténographie APS](https://github.com/lea1234567890/stenographie-aps) | Python, NLP, Transformers, T5/ByT5, PyTorch | Pipeline NLP de conversion du français vers la sténographie, avec entraînement et évaluation de modèles. |
-| [GastroMap](https://github.com/lea1234567890/GastroMap) | Swift, iOS, MapKit, CoreData | Application iOS de recherche de restaurants avec carte, géolocalisation, menus, commentaires et modèle de données. |
-| [Triangulator Testing](https://github.com/lea1234567890/triangulator-testing) | Python, Flask, pytest, Makefile | Projet de techniques de test autour d'un microservice de triangulation avec tests unitaires, intégration et performance. |
-| [CrackingHashPassword](https://github.com/lea1234567890/CrackingHashPassword) | Next.js, React, TypeScript, Supabase | Application web pédagogique autour de la robustesse des mots de passe et de notions de cybersécurité. |
-| [Academic Projects](https://github.com/lea1234567890/academic-projects) | PHP, SQL, Java, R, Python | Sélection de projets Licence/Master : bases de données, graphes, optimisation, NLP, HMM, CRF et Java. |
+| [Projet AMS Pepper](https://github.com/Lea-percheron/Projet_AMS_Pepper) | Python, Pepper, OpenAI Realtime, WebSocket, SQLite | Assistant IA robotique pour un cas d'usage en parapharmacie, avec backend, interface tablette et intégration Pepper. |
+| [Sténographie APS](https://github.com/Lea-percheron/stenographie-aps) | Python, NLP, Transformers, T5/ByT5, PyTorch | Pipeline NLP de conversion du français vers la sténographie, avec entraînement et évaluation de modèles. |
+| [GastroMap](https://github.com/Lea-percheron/GastroMap) | Swift, iOS, MapKit, CoreData | Application iOS de recherche de restaurants avec carte, géolocalisation, menus, commentaires et modèle de données. |
+| [Triangulator Testing](https://github.com/Lea-percheron/triangulator-testing) | Python, Flask, pytest, Makefile | Projet de techniques de test autour d'un microservice de triangulation avec tests unitaires, intégration et performance. |
+| [CrackingHashPassword](https://github.com/Lea-percheron/CrackingHashPassword) | Next.js, React, TypeScript, Supabase | Application web pédagogique autour de la robustesse des mots de passe et de notions de cybersécurité. |
+| [Academic Projects](https://github.com/Lea-percheron/academic-projects) | PHP, SQL, Java, R, Python | Sélection de projets Licence/Master : bases de données, graphes, optimisation, NLP, HMM, CRF et Java. |
 
 ---
 
@@ -49,6 +49,6 @@ Je développe des projets en Python, Swift, Java, TypeScript, SQL, R et C. Mon G
 
 ## Contact
 
-- GitHub : [lea1234567890](https://github.com/lea1234567890)
+- GitHub : [Lea-percheron](https://github.com/Lea-percheron)
 
 <!-- Ajouter ici LinkedIn, email ou portfolio quand les liens publics sont prêts. -->
